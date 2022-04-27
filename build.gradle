@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.thiagoqvdo.cloudnative.temafinal1'
-version = ''
+version = '1.0'
 sourceCompatibility = '11'
 
 configurations {
